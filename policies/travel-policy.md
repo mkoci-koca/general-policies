@@ -135,9 +135,9 @@ are inclusive of 1 checked piece of luggage per person.
 -   Additional baggage and/or overweight baggage fees are at the
     Traveller's own cost.
 
- | Flight Class Table
-Total Flying Time is the time from the scheduled departure of the first 
-flight to the scheduled arrival of the last flight |
+##### Flight Class Table
+ Total Flying Time is the time from the scheduled departure of the first flight to the scheduled arrival of the last flight
+ 
  | Total Flying Time | Flight Class | Where Flight Class is not available |
  | --- | --- | ---|
  | Less than 6 hours | Economy| n/a |
@@ -204,7 +204,7 @@ bill as a service charge.
 Meals will be reimbursed on a per diem basis as per the **Meal
 Entitlement Table** below:
 
-| Meal Entitlement Table |
+##### Meal Entitlement Table
 | Full Day | Up to US\$200/day |
 | Partial Day | Up to US\$100/day |
 | Entertainment\* | Full Cost of meal. Alcoholic beverages up to US\$20 per person per meal |
