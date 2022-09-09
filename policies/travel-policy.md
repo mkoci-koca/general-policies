@@ -205,7 +205,8 @@ Meals will be reimbursed on a per diem basis as per the **Meal
 Entitlement Table** below:
 
 ##### Meal Entitlement Table
-
+ | Period | Cost |
+ | --- | --- |
  | Full Day | Up to US\$200/day |
  | Partial Day | Up to US\$100/day |
  | Entertainment\* | Full Cost of meal. Alcoholic beverages up to US\$20 per person per meal |
