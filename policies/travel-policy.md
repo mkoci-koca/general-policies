@@ -26,20 +26,20 @@ leisure travel.
 Definitions
 -----------
 
--   *Travel* is where; you leave your usual state and/or country or you
-    have to travel 3 or more hours away from the location you usually
+-   **Travel** is where; you leave your usual state and/or country or you
+    have to travel 1 or more hours away from the location you usually
     work from.
--   *Travel Approver*: is a person authorised by the OMC to approve
+-   **Travel Approver**: is a person authorised by the OMC to approve
     travel expenses up to the limits as stated in the *Travel Approver
     Table*.
--   *Reimbursable* expenses: are expenses that OpenSSL will reimburse
+-   **Reimbursable** expenses: are expenses that OpenSSL will reimburse
     (subject to the relevant limits &/or restrictions outlined in The
     Policy) some examples of these are:
     -   Flights & Taxis.
     -   Conference fees.
     -   Accommodations while attending meetings, conferences, etc.
     -   Meals.
--   *Non-reimbursable* expenses: are expenses that OpenSSL will not
+-   **Non-reimbursable** expenses: are expenses that OpenSSL will not
     reimburse and are at the Traveller's own cost some examples of these
     are (this is not an exhaustive list):
     -   Costs of entertainment, including amusement, diversion, and social
@@ -51,12 +51,11 @@ Definitions
     -   Personal expenses including laundry charges, dry cleaning and lost
     personal property;
     -   Fines or excesses incurred while operating a rental vehicle;
-    -   Rental car optional add-on fees (e.g. GPS hire);
     -   Unauthorized flight or accommodation upgrades etc;
     -   minibar charges
--   *Full Day*: is any 12+ to 24 hour period that a Traveller is away
+-   **Full Day**: is any 12+ to 24 hour period that a Traveller is away
     from their usual place of residence.
--   *Partial Day*: is 3 to 12 hour period that a Traveller is away from
+-   **Partial Day**: is 1 to 12 hour period that a Traveller is away from
     their usual place of residence, this is considered a day trip.
 
 Principles
@@ -82,9 +81,8 @@ in the ***Travel Approver Table***.
   
   | Travel Approver Table | Total Value of Travel |
   | --- | --- |
-  | OMC Member - individual | US\$30,000 | 
-  | Manager | US\$15,000 |
-  | Travel over US\$30,000 can only be approved by the OMC |  
+  | Manager and OMC member | US\$15,000 |
+  | Travel over US\$15,000 can only get approval direct from the OMC |  
   
 
 ### Travel Arrangements
@@ -134,6 +132,7 @@ are inclusive of 1 checked piece of luggage per person.
     flight class is at the Traveller's own expense.
 -   Additional baggage and/or overweight baggage fees are at the
     Traveller's own cost.
+- 	Airport parking is also possible utilize
 
 ##### Flight Class Table
  Total Flying Time is the time from the scheduled departure of the first flight to the scheduled arrival of the last flight
@@ -196,8 +195,8 @@ Meal entitlement covers breakfast, lunch and dinner excluding alcoholic
 beverages which are at the Travellers expense. The Traveller must submit
 receipts for all meals that they wish to claim.
 
-Tips can not be claimed except when it's already been included in the
-bill as a service charge.
+Reasonable tips in keeping with the expectation for the country being visited
+can be claimed, or any service charges included in the bill.
 
 #### Meal Entitlement
 
