@@ -79,12 +79,13 @@ Approver Table***.
 Travel Approver's can only authorise travel up to the limits specified
 in the ***Travel Approver Table***.
 
-  -------------------------------------------------------- -----------------------
-  Travel Approver Table                                    Total Value of Travel
-  OMC Member - individual                                  US\$30,000
-  Manager                                                  US\$15,000
-  Travel over US\$30,000 can only be approved by the OMC   
-  -------------------------------------------------------- -----------------------
+  
+  | Travel Approver Table | Total Value of Travel |
+  | --- | --- |
+  | OMC Member - individual | US\$30,000 | 
+  | Manager | US\$15,000 |
+  | Travel over US\$30,000 can only be approved by the OMC |  
+  
 
 ### Travel Arrangements
 
@@ -134,38 +135,14 @@ are inclusive of 1 checked piece of luggage per person.
 -   Additional baggage and/or overweight baggage fees are at the
     Traveller's own cost.
 
-+----------------------+----------------------+----------------------+
-| **Flight Class       |                      |                      |
-| Table**              |                      |                      |
-|                      |                      |                      |
-| *****Total Flying    |                      |                      |
-| Time is the time     |                      |                      |
-| from the scheduled   |                      |                      |
-| departure of the     |                      |                      |
-| first flight to the  |                      |                      |
-| scheduled arrival of |                      |                      |
-| the last flight***** |                      |                      |
-+----------------------+----------------------+----------------------+
-| ****Total Flying     | ****Flight Class**** | ****Where Flight     |
-| Time****             |                      | Class is not         |
-|                      |                      | available****        |
-+----------------------+----------------------+----------------------+
-| ****Less than 6      | ****Economy****      | ****n/a****          |
-| hours****            |                      |                      |
-+----------------------+----------------------+----------------------+
-| ****Greater than 6   | ****Premium          | ****Economy with an  |
-| but less than 12     | Economy****          | extra pre-arrival    |
-| hours****            |                      | day (i.e. arrives 2  |
-|                      |                      | days prior)****      |
-+----------------------+----------------------+----------------------+
-| ****Greater than 12  | ****Business         | ****Premium Economy  |
-| hours****            | Class****            | or Economy with an   |
-|                      |                      | extra pre-arrival    |
-|                      |                      | day (i.e. arrives 2  |
-|                      |                      | days prior)****      |
-+----------------------+----------------------+----------------------+
-
-
+ | Flight Class Table
+Total Flying Time is the time from the scheduled departure of the first 
+flight to the scheduled arrival of the last flight |
+ | Total Flying Time | Flight Class | Where Flight Class is not available |
+ | --- | --- | ---|
+ | Less than 6 hours | Economy| n/a |
+ | Greater than 6 but less than 12 hours | Premium Economy | Economy with an extra pre-arrival day (i.e. arrives 2 days prior) |
+ | Greater than 12 hours | Business Class | Premium Economy or Economy with an extra pre-arrival day (i.e. arrives 2 days prior) |
 
 #### Rental Cars
 
@@ -227,18 +204,11 @@ bill as a service charge.
 Meals will be reimbursed on a per diem basis as per the **Meal
 Entitlement Table** below:
 
-+------------------------+--------------------------------------------+
-| Meal Entitlement Table |                                            |
-+------------------------+--------------------------------------------+
-| Full Day               | Up to US\$200/day                          |
-+------------------------+--------------------------------------------+
-| Partial Day            | Up to US\$100/day                          |
-+------------------------+--------------------------------------------+
-| Entertainment\*        | Full Cost of meal                          |
-|                        |                                            |
-|                        | Alcoholic beverages up to US\$20 per       |
-|                        | person per meal.                           |
-+------------------------+--------------------------------------------+
+| Meal Entitlement Table |
+| Full Day | Up to US\$200/day |
+| Partial Day | Up to US\$100/day |
+| Entertainment\* | Full Cost of meal. Alcoholic beverages up to US\$20 per person per meal |
+
 
 ### Entertainment
 
