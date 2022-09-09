@@ -145,7 +145,7 @@ are inclusive of 1 checked piece of luggage per person.
 
 #### Rental Cars
 
-****Rental ****Cars can be rented when, there is either no other means
+***Rental*** Cars can be rented when, there is either no other means
 of transportation available or where it is either more costly or
 impractical to use other transportation.
 
