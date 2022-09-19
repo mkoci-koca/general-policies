@@ -4,10 +4,10 @@ The OpenSSL organization is purely remote without any office. The organization h
 
 ## Contractor Invoice Submission
 
-1. Contractors send their invoices via the form or send them to **finance@openssl.org** directly in the given format and information below. If an invoice is submitted via a form, notification to the finance@openssl.org mailing list will be sent automatically. In the form:
-   * Select the month for your invoice.
-   * Type the number of worked hours in the given month. If contractor has in their contract a fixed monthly rate, just type any number.
-   * Add invoice that should be in the given format and name: **[current fiscal year][date]-[month(s)][year].pdf**
+1. Contractors send their invoices via the **form** or send them to **finance@openssl.org** directly in the given format and information below. If an invoice is submitted via a **form**, notification to the finance@openssl.org mailing list will be sent automatically. In the form:
+    * Select the month for your invoice.
+    * Type the number of worked hours in the given month. If contractor has in their contract a fixed monthly rate, just type any number.
+    * Add invoice that should be in the given format and name: **[current fiscal year][date]-[month(s)][year].pdf**
  > eg: **20220813-Jul2022.pdf** or **20220813-JunJul2022.pdf** for invoicing more months
 
 ## Processing Submitted Invoices
@@ -24,8 +24,9 @@ The OpenSSL organization is purely remote without any office. The organization h
 5. Manager requests (TO'ing) the treasurer to make the batch payment along with the notice to finance@openssl.org (CC'ing).
 <br><br>
 
-* Additional expenses as approved can be included, subject to another process around making sure they are itemized in the right way for tax (etc). These additional expenses should be submitted via a google form that is created for this purpose. This will send a notification to the finance@openssl.org mailing list too.
-* Manager to batch payments (contractors expenses, invoices) as much as possible, to have a maximum of two potential payment dates a month, and communicate that to contractors.
+    * Additional expenses as approved can be included, subject to another process around making sure they are itemized in the right way for tax (etc). These additional expenses should be submitted via a google form that is created for this purpose. This will send a notification to the finance@openssl.org mailing list too.
+    * Manager to batch payments (contractors expenses, invoices) as much as possible, to have a maximum of two potential payment dates a month, and communicate that to contractors.
+
 
 ## Payment Run Schedule Table
 
